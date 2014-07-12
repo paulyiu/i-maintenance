@@ -64,6 +64,7 @@
     </script>
   </head>
   <body>
+  Hello
     <div>
       <div style='font-size: x-large; float: left;'>
         Text Search Demo
